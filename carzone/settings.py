@@ -162,11 +162,7 @@ MESSAGE_TAGS = {
 
 SITE_ID = 1
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'vasudeeptha.deeptha@gmail.com'
-EMAIL_HOST_PASSWORD = 'wfnkcakcmfiwvbec'
-EMAIL_USE_TLS = True
+
 
 #Whitenoise settings
 
